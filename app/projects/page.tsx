@@ -49,7 +49,7 @@ export default async function ProjectsPage() {
             Some of the projects are from work and some are on my own time.
           </p>
         </div>
-        <div className="w-full h-px bg-zinc-800" />
+        <div className="w-full h-px bg-red-800" />
 
         <div className="grid grid-cols-1 gap-8 mx-auto lg:grid-cols-2 ">
           <Card>
